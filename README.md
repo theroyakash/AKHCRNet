@@ -1,6 +1,7 @@
 # AKHCRNetV1 (Research)
 Deep neural architecture on bengali hand written character.
 
+Here is the model code. (At least working okay)
 ```Python
 # Model architecture (Working)
 img_input = Input(shape=(200,200,3))
@@ -43,7 +44,7 @@ model.summary()
 ```
 
 # Output
-
+```Plain Text
 Model: "model_5"
 __________________________________________________________________________________________________
 Layer (type)                    Output Shape         Param #     Connected to                     
@@ -98,3 +99,4 @@ Total params: 48,658,580
 Trainable params: 48,658,580
 Non-trainable params: 0
 __________________________________________________________________________________________________
+```
