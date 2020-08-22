@@ -8,4 +8,4 @@ Proposal of a state of the art deep neural architectural solution for handwritte
 Access the preprint [here](https://easychair.org/publications/preprint/fq8p)
 
 #### Downloads:
-Weight files can be downloaded from [here](https://drive.google.com/file/d/1ru_Jre2HGPm7QPDwGoikDx5dYgFBMNqn/view?usp=sharing)
+Weight files can be downloaded from [here](https://github.com/theroyakash/AKHCRNet/releases/download/v1.0.0/model.h5)
