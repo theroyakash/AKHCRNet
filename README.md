@@ -9,6 +9,6 @@ Proposal of a state of the art deep neural architectural solution for handwritte
 
 #### Downloads:
 Weight files can be downloaded from [here](https://github.com/theroyakash/AKHCRNet/releases/download/v1.0.0/model.h5). Or try the following code in a jupyter cell.
-```python
+```bash
 !wget https://github.com/theroyakash/AKHCRNet/releases/download/v1.0.0/model.h5
 ```
